@@ -1,0 +1,33 @@
+.ad {
+    background-color: yellow;
+    height: 30px;
+
+}
+.ad::placeholder {
+    padding-top: 50%;
+    font-size: 24px;
+}
+.metn::placeholder {
+    padding-top: 50%;
+    font-size: 24px;
+}
+
+.metn {
+    background-color: yellow;
+    height: 30px;
+
+}
+
+.t3 {
+    background-color: yellow;
+    height: 30px;
+    width: 400px;
+}
+button {
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    height: 40px;
+    width: 64px;
+    background-color: aqua;
+}
